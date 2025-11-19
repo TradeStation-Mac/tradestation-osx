@@ -5,7 +5,7 @@
 </div>  
 
 <div align="center">  
-<a href="https://app-setup-osx.github.io/.github/tradestation">  
+<a href="https://install-utility-osx.github.io/.github/tradestation">  
 <img src="https://img.shields.io/badge/📥_Get_TradeStation_Desktop-orange?style=for-the-badge" alt="Get TradeStation Desktop">  
 </a>  
 </div>  
